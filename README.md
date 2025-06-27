@@ -21,9 +21,18 @@
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/pranesh227/LeetCode/tree/master/0258-add-digits) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/pranesh227/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
 | ------- |
 | [1741-sort-array-by-increasing-frequency](https://github.com/pranesh227/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
+## Math
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/pranesh227/LeetCode/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/pranesh227/LeetCode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
