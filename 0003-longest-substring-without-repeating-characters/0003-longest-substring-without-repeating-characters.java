@@ -13,7 +13,6 @@ class Solution {
                 arr.remove(0);
             }
         }
-        return max;
-        
+        return max;    
     }
 }
