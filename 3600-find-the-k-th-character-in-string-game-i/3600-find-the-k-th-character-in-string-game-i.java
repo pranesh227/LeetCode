@@ -9,9 +9,7 @@ class Solution {
             }
             size=st.length();
         }
-       for(int i=0;i<size;i++){
-        if(i==k-1) return st.charAt(i);
-       }
-       return 'a';
+      
+       return st.charAt(k-1);
     }
 }
