@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/pranesh227/LeetCode/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/pranesh227/LeetCode/tree/master/0049-group-anagrams) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/pranesh227/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1241-decompress-run-length-encoded-list](https://github.com/pranesh227/LeetCode/tree/master/1241-decompress-run-length-encoded-list) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/pranesh227/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -18,6 +19,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/pranesh227/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pranesh227/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/pranesh227/LeetCode/tree/master/0049-group-anagrams) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/pranesh227/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/pranesh227/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/pranesh227/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -35,6 +37,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/pranesh227/LeetCode/tree/master/0049-group-anagrams) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/pranesh227/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/pranesh227/LeetCode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 ## Math
@@ -50,6 +53,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pranesh227/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pranesh227/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/pranesh227/LeetCode/tree/master/0049-group-anagrams) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/pranesh227/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 ## Sliding Window
 |  |
