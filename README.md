@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/pranesh227/LeetCode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/pranesh227/LeetCode/tree/master/0049-group-anagrams) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/pranesh227/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0958-sort-array-by-parity-ii](https://github.com/pranesh227/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
 | [1241-decompress-run-length-encoded-list](https://github.com/pranesh227/LeetCode/tree/master/1241-decompress-run-length-encoded-list) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/pranesh227/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1833-find-the-highest-altitude](https://github.com/pranesh227/LeetCode/tree/master/1833-find-the-highest-altitude) |
@@ -28,6 +29,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pranesh227/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0958-sort-array-by-parity-ii](https://github.com/pranesh227/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/pranesh227/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/pranesh227/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 ## Simulation
@@ -40,6 +42,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/pranesh227/LeetCode/tree/master/0049-group-anagrams) |
+| [0958-sort-array-by-parity-ii](https://github.com/pranesh227/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/pranesh227/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/pranesh227/LeetCode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 ## Math
