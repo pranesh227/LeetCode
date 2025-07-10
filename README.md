@@ -30,6 +30,7 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/pranesh227/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pranesh227/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0234-palindrome-linked-list](https://github.com/pranesh227/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0958-sort-array-by-parity-ii](https://github.com/pranesh227/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/pranesh227/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/pranesh227/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -88,10 +89,16 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/pranesh227/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/pranesh227/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/pranesh227/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Linked List
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/pranesh227/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0206-reverse-linked-list](https://github.com/pranesh227/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/pranesh227/LeetCode/tree/master/0234-palindrome-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/pranesh227/LeetCode/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
