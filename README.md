@@ -57,6 +57,7 @@
 | [0066-plus-one](https://github.com/pranesh227/LeetCode/tree/master/0066-plus-one) |
 | [0258-add-digits](https://github.com/pranesh227/LeetCode/tree/master/0258-add-digits) |
 | [1674-minimum-operations-to-make-array-equal](https://github.com/pranesh227/LeetCode/tree/master/1674-minimum-operations-to-make-array-equal) |
+| [2812-find-the-maximum-achievable-number](https://github.com/pranesh227/LeetCode/tree/master/2812-find-the-maximum-achievable-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/pranesh227/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Number Theory
 |  |
