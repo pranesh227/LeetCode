@@ -63,6 +63,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pranesh227/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/pranesh227/LeetCode/tree/master/0049-group-anagrams) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/pranesh227/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [1764-maximum-repeating-substring](https://github.com/pranesh227/LeetCode/tree/master/1764-maximum-repeating-substring) |
 ## Sliding Window
 |  |
 | ------- |
@@ -76,6 +77,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pranesh227/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1764-maximum-repeating-substring](https://github.com/pranesh227/LeetCode/tree/master/1764-maximum-repeating-substring) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -101,4 +103,8 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/pranesh227/LeetCode/tree/master/0234-palindrome-linked-list) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1764-maximum-repeating-substring](https://github.com/pranesh227/LeetCode/tree/master/1764-maximum-repeating-substring) |
 <!---LeetCode Topics End-->
