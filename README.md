@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/pranesh227/LeetCode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/pranesh227/LeetCode/tree/master/0049-group-anagrams) |
+| [0066-plus-one](https://github.com/pranesh227/LeetCode/tree/master/0066-plus-one) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/pranesh227/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0958-sort-array-by-parity-ii](https://github.com/pranesh227/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
 | [1241-decompress-run-length-encoded-list](https://github.com/pranesh227/LeetCode/tree/master/1241-decompress-run-length-encoded-list) |
@@ -50,6 +51,7 @@
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/pranesh227/LeetCode/tree/master/0066-plus-one) |
 | [0258-add-digits](https://github.com/pranesh227/LeetCode/tree/master/0258-add-digits) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/pranesh227/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Number Theory
