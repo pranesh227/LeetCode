@@ -13,7 +13,6 @@ class Solution {
                 return i;
             }
         }
-        if(c>0) return -1;
         return -1;
     }
 }
