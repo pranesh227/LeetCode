@@ -137,4 +137,8 @@
 |  |
 | ------- |
 | [2481-strictly-palindromic-number](https://github.com/pranesh227/LeetCode/tree/master/2481-strictly-palindromic-number) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/pranesh227/LeetCode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
