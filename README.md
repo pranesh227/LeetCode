@@ -146,4 +146,5 @@
 | [0182-duplicate-emails](https://github.com/pranesh227/LeetCode/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/pranesh227/LeetCode/tree/master/0183-customers-who-never-order) |
 | [1179-game-play-analysis-i](https://github.com/pranesh227/LeetCode/tree/master/1179-game-play-analysis-i) |
+| [1908-recyclable-and-low-fat-products](https://github.com/pranesh227/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
