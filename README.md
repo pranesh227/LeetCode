@@ -147,6 +147,7 @@
 | [0183-customers-who-never-order](https://github.com/pranesh227/LeetCode/tree/master/0183-customers-who-never-order) |
 | [0197-rising-temperature](https://github.com/pranesh227/LeetCode/tree/master/0197-rising-temperature) |
 | [0595-big-countries](https://github.com/pranesh227/LeetCode/tree/master/0595-big-countries) |
+| [0620-not-boring-movies](https://github.com/pranesh227/LeetCode/tree/master/0620-not-boring-movies) |
 | [1179-game-play-analysis-i](https://github.com/pranesh227/LeetCode/tree/master/1179-game-play-analysis-i) |
 | [1258-article-views-i](https://github.com/pranesh227/LeetCode/tree/master/1258-article-views-i) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/pranesh227/LeetCode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
