@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/pranesh227/LeetCode/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/pranesh227/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0049-group-anagrams](https://github.com/pranesh227/LeetCode/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/pranesh227/LeetCode/tree/master/0066-plus-one) |
 | [0566-reshape-the-matrix](https://github.com/pranesh227/LeetCode/tree/master/0566-reshape-the-matrix) |
@@ -156,4 +157,12 @@
 | [1827-invalid-tweets](https://github.com/pranesh227/LeetCode/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/pranesh227/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/pranesh227/LeetCode/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/pranesh227/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/pranesh227/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
