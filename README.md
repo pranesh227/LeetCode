@@ -70,6 +70,7 @@
 | [1674-minimum-operations-to-make-array-equal](https://github.com/pranesh227/LeetCode/tree/master/1674-minimum-operations-to-make-array-equal) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/pranesh227/LeetCode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2481-strictly-palindromic-number](https://github.com/pranesh227/LeetCode/tree/master/2481-strictly-palindromic-number) |
+| [2630-alternating-digit-sum](https://github.com/pranesh227/LeetCode/tree/master/2630-alternating-digit-sum) |
 | [2812-find-the-maximum-achievable-number](https://github.com/pranesh227/LeetCode/tree/master/2812-find-the-maximum-achievable-number) |
 | [3227-find-missing-and-repeated-values](https://github.com/pranesh227/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/pranesh227/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
