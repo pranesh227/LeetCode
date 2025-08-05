@@ -14,10 +14,6 @@ class Solution {
         }
         if(cc==0) c++;
        }
-
-       for(int n:baskets){
-        System.out.print(n+" ");
-       }
        return c;
     }
 }
