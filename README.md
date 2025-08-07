@@ -21,6 +21,7 @@
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/pranesh227/LeetCode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/pranesh227/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/pranesh227/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/pranesh227/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/pranesh227/LeetCode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3221-find-the-peaks](https://github.com/pranesh227/LeetCode/tree/master/3221-find-the-peaks) |
 | [3227-find-missing-and-repeated-values](https://github.com/pranesh227/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
@@ -39,6 +40,7 @@
 | [1392-find-the-difference-of-two-arrays](https://github.com/pranesh227/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/pranesh227/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/pranesh227/LeetCode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/pranesh227/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/pranesh227/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/pranesh227/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/pranesh227/LeetCode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
@@ -73,6 +75,7 @@
 | [1741-sort-array-by-increasing-frequency](https://github.com/pranesh227/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/pranesh227/LeetCode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/pranesh227/LeetCode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/pranesh227/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Math
 |  |
 | ------- |
@@ -183,6 +186,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/pranesh227/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/pranesh227/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/pranesh227/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Divide and Conquer
 |  |
@@ -200,6 +204,7 @@
 |  |
 | ------- |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/pranesh227/LeetCode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/pranesh227/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Segment Tree
 |  |
 | ------- |
