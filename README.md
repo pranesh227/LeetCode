@@ -17,6 +17,7 @@
 | [1741-sort-array-by-increasing-frequency](https://github.com/pranesh227/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1833-find-the-highest-altitude](https://github.com/pranesh227/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [2102-find-the-middle-index-in-array](https://github.com/pranesh227/LeetCode/tree/master/2102-find-the-middle-index-in-array) |
+| [2232-adding-spaces-to-a-string](https://github.com/pranesh227/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/pranesh227/LeetCode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/pranesh227/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/pranesh227/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -48,6 +49,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pranesh227/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/pranesh227/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0958-sort-array-by-parity-ii](https://github.com/pranesh227/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
+| [2232-adding-spaces-to-a-string](https://github.com/pranesh227/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/pranesh227/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/pranesh227/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2481-strictly-palindromic-number](https://github.com/pranesh227/LeetCode/tree/master/2481-strictly-palindromic-number) |
@@ -57,6 +59,7 @@
 | [0258-add-digits](https://github.com/pranesh227/LeetCode/tree/master/0258-add-digits) |
 | [0566-reshape-the-matrix](https://github.com/pranesh227/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [1505-create-target-array-in-the-given-order](https://github.com/pranesh227/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
+| [2232-adding-spaces-to-a-string](https://github.com/pranesh227/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/pranesh227/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2886-faulty-keyboard](https://github.com/pranesh227/LeetCode/tree/master/2886-faulty-keyboard) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/pranesh227/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -98,6 +101,7 @@
 | [0599-minimum-index-sum-of-two-lists](https://github.com/pranesh227/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1764-maximum-repeating-substring](https://github.com/pranesh227/LeetCode/tree/master/1764-maximum-repeating-substring) |
 | [1797-goal-parser-interpretation](https://github.com/pranesh227/LeetCode/tree/master/1797-goal-parser-interpretation) |
+| [2232-adding-spaces-to-a-string](https://github.com/pranesh227/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/pranesh227/LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/pranesh227/LeetCode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2886-faulty-keyboard](https://github.com/pranesh227/LeetCode/tree/master/2886-faulty-keyboard) |
