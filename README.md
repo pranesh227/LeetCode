@@ -82,6 +82,7 @@
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/pranesh227/LeetCode/tree/master/0066-plus-one) |
+| [0231-power-of-two](https://github.com/pranesh227/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/pranesh227/LeetCode/tree/master/0258-add-digits) |
 | [1674-minimum-operations-to-make-array-equal](https://github.com/pranesh227/LeetCode/tree/master/1674-minimum-operations-to-make-array-equal) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/pranesh227/LeetCode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
@@ -139,6 +140,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/pranesh227/LeetCode/tree/master/0231-power-of-two) |
 | [0476-number-complement](https://github.com/pranesh227/LeetCode/tree/master/0476-number-complement) |
 | [0693-binary-number-with-alternating-bits](https://github.com/pranesh227/LeetCode/tree/master/0693-binary-number-with-alternating-bits) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/pranesh227/LeetCode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
@@ -147,6 +149,7 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/pranesh227/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/pranesh227/LeetCode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/pranesh227/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/pranesh227/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Linked List
