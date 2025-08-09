@@ -21,6 +21,7 @@
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/pranesh227/LeetCode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/pranesh227/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/pranesh227/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/pranesh227/LeetCode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/pranesh227/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/pranesh227/LeetCode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3221-find-the-peaks](https://github.com/pranesh227/LeetCode/tree/master/3221-find-the-peaks) |
@@ -41,6 +42,7 @@
 | [1392-find-the-difference-of-two-arrays](https://github.com/pranesh227/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/pranesh227/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/pranesh227/LeetCode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
+| [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/pranesh227/LeetCode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/pranesh227/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/pranesh227/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/pranesh227/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -87,6 +89,7 @@
 | [1674-minimum-operations-to-make-array-equal](https://github.com/pranesh227/LeetCode/tree/master/1674-minimum-operations-to-make-array-equal) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/pranesh227/LeetCode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2481-strictly-palindromic-number](https://github.com/pranesh227/LeetCode/tree/master/2481-strictly-palindromic-number) |
+| [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/pranesh227/LeetCode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2630-alternating-digit-sum](https://github.com/pranesh227/LeetCode/tree/master/2630-alternating-digit-sum) |
 | [2812-find-the-maximum-achievable-number](https://github.com/pranesh227/LeetCode/tree/master/2812-find-the-maximum-achievable-number) |
 | [3227-find-missing-and-repeated-values](https://github.com/pranesh227/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
@@ -126,6 +129,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/pranesh227/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/pranesh227/LeetCode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/pranesh227/LeetCode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
+| [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/pranesh227/LeetCode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/pranesh227/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## String Matching
 |  |
