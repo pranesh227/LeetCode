@@ -17,6 +17,7 @@
 | [1741-sort-array-by-increasing-frequency](https://github.com/pranesh227/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1833-find-the-highest-altitude](https://github.com/pranesh227/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [2102-find-the-middle-index-in-array](https://github.com/pranesh227/LeetCode/tree/master/2102-find-the-middle-index-in-array) |
+| [2219-maximum-number-of-words-found-in-sentences](https://github.com/pranesh227/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2232-adding-spaces-to-a-string](https://github.com/pranesh227/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/pranesh227/LeetCode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/pranesh227/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -113,6 +114,7 @@
 | [1764-maximum-repeating-substring](https://github.com/pranesh227/LeetCode/tree/master/1764-maximum-repeating-substring) |
 | [1797-goal-parser-interpretation](https://github.com/pranesh227/LeetCode/tree/master/1797-goal-parser-interpretation) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/pranesh227/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2219-maximum-number-of-words-found-in-sentences](https://github.com/pranesh227/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2232-adding-spaces-to-a-string](https://github.com/pranesh227/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/pranesh227/LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/pranesh227/LeetCode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
