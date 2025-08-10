@@ -16,6 +16,7 @@
 | [1505-create-target-array-in-the-given-order](https://github.com/pranesh227/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/pranesh227/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1833-find-the-highest-altitude](https://github.com/pranesh227/LeetCode/tree/master/1833-find-the-highest-altitude) |
+| [2093-check-if-string-is-a-prefix-of-array](https://github.com/pranesh227/LeetCode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2102-find-the-middle-index-in-array](https://github.com/pranesh227/LeetCode/tree/master/2102-find-the-middle-index-in-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/pranesh227/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2232-adding-spaces-to-a-string](https://github.com/pranesh227/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
@@ -56,6 +57,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pranesh227/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/pranesh227/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0958-sort-array-by-parity-ii](https://github.com/pranesh227/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
+| [2093-check-if-string-is-a-prefix-of-array](https://github.com/pranesh227/LeetCode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/pranesh227/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/pranesh227/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/pranesh227/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -115,6 +117,7 @@
 | [1764-maximum-repeating-substring](https://github.com/pranesh227/LeetCode/tree/master/1764-maximum-repeating-substring) |
 | [1797-goal-parser-interpretation](https://github.com/pranesh227/LeetCode/tree/master/1797-goal-parser-interpretation) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/pranesh227/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2093-check-if-string-is-a-prefix-of-array](https://github.com/pranesh227/LeetCode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/pranesh227/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2232-adding-spaces-to-a-string](https://github.com/pranesh227/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/pranesh227/LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
