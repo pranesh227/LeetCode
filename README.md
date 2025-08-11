@@ -156,6 +156,7 @@
 | [0231-power-of-two](https://github.com/pranesh227/LeetCode/tree/master/0231-power-of-two) |
 | [0476-number-complement](https://github.com/pranesh227/LeetCode/tree/master/0476-number-complement) |
 | [0693-binary-number-with-alternating-bits](https://github.com/pranesh227/LeetCode/tree/master/0693-binary-number-with-alternating-bits) |
+| [1054-complement-of-base-10-integer](https://github.com/pranesh227/LeetCode/tree/master/1054-complement-of-base-10-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/pranesh227/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/pranesh227/LeetCode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/pranesh227/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
