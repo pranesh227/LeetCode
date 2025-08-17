@@ -119,6 +119,7 @@
 | [1797-goal-parser-interpretation](https://github.com/pranesh227/LeetCode/tree/master/1797-goal-parser-interpretation) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/pranesh227/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/pranesh227/LeetCode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
+| [2154-minimum-moves-to-convert-string](https://github.com/pranesh227/LeetCode/tree/master/2154-minimum-moves-to-convert-string) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/pranesh227/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2232-adding-spaces-to-a-string](https://github.com/pranesh227/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/pranesh227/LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
@@ -231,6 +232,7 @@
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/pranesh227/LeetCode/tree/master/0409-longest-palindrome) |
+| [2154-minimum-moves-to-convert-string](https://github.com/pranesh227/LeetCode/tree/master/2154-minimum-moves-to-convert-string) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/pranesh227/LeetCode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/pranesh227/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Segment Tree
