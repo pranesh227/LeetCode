@@ -16,6 +16,7 @@
 | [1392-find-the-difference-of-two-arrays](https://github.com/pranesh227/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1505-create-target-array-in-the-given-order](https://github.com/pranesh227/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/pranesh227/LeetCode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
+| [1581-the-k-strongest-values-in-an-array](https://github.com/pranesh227/LeetCode/tree/master/1581-the-k-strongest-values-in-an-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/pranesh227/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1833-find-the-highest-altitude](https://github.com/pranesh227/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/pranesh227/LeetCode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
@@ -61,6 +62,7 @@
 | [0234-palindrome-linked-list](https://github.com/pranesh227/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0958-sort-array-by-parity-ii](https://github.com/pranesh227/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
 | [1168-duplicate-zeros](https://github.com/pranesh227/LeetCode/tree/master/1168-duplicate-zeros) |
+| [1581-the-k-strongest-values-in-an-array](https://github.com/pranesh227/LeetCode/tree/master/1581-the-k-strongest-values-in-an-array) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/pranesh227/LeetCode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/pranesh227/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/pranesh227/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -85,6 +87,7 @@
 | [0049-group-anagrams](https://github.com/pranesh227/LeetCode/tree/master/0049-group-anagrams) |
 | [0451-sort-characters-by-frequency](https://github.com/pranesh227/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0958-sort-array-by-parity-ii](https://github.com/pranesh227/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
+| [1581-the-k-strongest-values-in-an-array](https://github.com/pranesh227/LeetCode/tree/master/1581-the-k-strongest-values-in-an-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/pranesh227/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/pranesh227/LeetCode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/pranesh227/LeetCode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
