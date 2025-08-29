@@ -29,6 +29,7 @@
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/pranesh227/LeetCode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/pranesh227/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/pranesh227/LeetCode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
+| [2737-row-with-maximum-ones](https://github.com/pranesh227/LeetCode/tree/master/2737-row-with-maximum-ones) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/pranesh227/LeetCode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3221-find-the-peaks](https://github.com/pranesh227/LeetCode/tree/master/3221-find-the-peaks) |
 | [3227-find-missing-and-repeated-values](https://github.com/pranesh227/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
@@ -195,6 +196,7 @@
 |  |
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/pranesh227/LeetCode/tree/master/0566-reshape-the-matrix) |
+| [2737-row-with-maximum-ones](https://github.com/pranesh227/LeetCode/tree/master/2737-row-with-maximum-ones) |
 | [3227-find-missing-and-repeated-values](https://github.com/pranesh227/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Brainteaser
 |  |
