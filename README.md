@@ -120,6 +120,7 @@
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/pranesh227/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3830-find-closest-person](https://github.com/pranesh227/LeetCode/tree/master/3830-find-closest-person) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/pranesh227/LeetCode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
+| [3918-check-divisibility-by-digit-sum-and-product](https://github.com/pranesh227/LeetCode/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
 ## Number Theory
 |  |
 | ------- |
