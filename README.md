@@ -41,6 +41,7 @@
 | [3242-count-elements-with-maximum-frequency](https://github.com/pranesh227/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/pranesh227/LeetCode/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/pranesh227/LeetCode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
+| [3463-alternating-groups-i](https://github.com/pranesh227/LeetCode/tree/master/3463-alternating-groups-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/pranesh227/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/pranesh227/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/pranesh227/LeetCode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
@@ -162,6 +163,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pranesh227/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [3463-alternating-groups-i](https://github.com/pranesh227/LeetCode/tree/master/3463-alternating-groups-i) |
 ## Counting
 |  |
 | ------- |
