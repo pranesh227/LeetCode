@@ -18,6 +18,7 @@
 | [1505-create-target-array-in-the-given-order](https://github.com/pranesh227/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/pranesh227/LeetCode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1581-the-k-strongest-values-in-an-array](https://github.com/pranesh227/LeetCode/tree/master/1581-the-k-strongest-values-in-an-array) |
+| [1656-count-good-triplets](https://github.com/pranesh227/LeetCode/tree/master/1656-count-good-triplets) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/pranesh227/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1833-find-the-highest-altitude](https://github.com/pranesh227/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [1899-count-items-matching-a-rule](https://github.com/pranesh227/LeetCode/tree/master/1899-count-items-matching-a-rule) |
@@ -272,6 +273,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [1656-count-good-triplets](https://github.com/pranesh227/LeetCode/tree/master/1656-count-good-triplets) |
 | [3221-find-the-peaks](https://github.com/pranesh227/LeetCode/tree/master/3221-find-the-peaks) |
 ## Trie
 |  |
