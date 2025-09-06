@@ -118,6 +118,7 @@
 | [3227-find-missing-and-repeated-values](https://github.com/pranesh227/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/pranesh227/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3567-convert-date-to-binary](https://github.com/pranesh227/LeetCode/tree/master/3567-convert-date-to-binary) |
+| [3568-find-the-key-of-the-numbers](https://github.com/pranesh227/LeetCode/tree/master/3568-find-the-key-of-the-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/pranesh227/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3830-find-closest-person](https://github.com/pranesh227/LeetCode/tree/master/3830-find-closest-person) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/pranesh227/LeetCode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
