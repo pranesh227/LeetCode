@@ -33,6 +33,7 @@
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/pranesh227/LeetCode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/pranesh227/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/pranesh227/LeetCode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
+| [2722-prime-in-diagonal](https://github.com/pranesh227/LeetCode/tree/master/2722-prime-in-diagonal) |
 | [2737-row-with-maximum-ones](https://github.com/pranesh227/LeetCode/tree/master/2737-row-with-maximum-ones) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/pranesh227/LeetCode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3221-find-the-peaks](https://github.com/pranesh227/LeetCode/tree/master/3221-find-the-peaks) |
@@ -118,6 +119,7 @@
 | [2481-strictly-palindromic-number](https://github.com/pranesh227/LeetCode/tree/master/2481-strictly-palindromic-number) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/pranesh227/LeetCode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2630-alternating-digit-sum](https://github.com/pranesh227/LeetCode/tree/master/2630-alternating-digit-sum) |
+| [2722-prime-in-diagonal](https://github.com/pranesh227/LeetCode/tree/master/2722-prime-in-diagonal) |
 | [2812-find-the-maximum-achievable-number](https://github.com/pranesh227/LeetCode/tree/master/2812-find-the-maximum-achievable-number) |
 | [3227-find-missing-and-repeated-values](https://github.com/pranesh227/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/pranesh227/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -131,6 +133,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/pranesh227/LeetCode/tree/master/0258-add-digits) |
+| [2722-prime-in-diagonal](https://github.com/pranesh227/LeetCode/tree/master/2722-prime-in-diagonal) |
 ## String
 |  |
 | ------- |
@@ -215,6 +218,7 @@
 |  |
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/pranesh227/LeetCode/tree/master/0566-reshape-the-matrix) |
+| [2722-prime-in-diagonal](https://github.com/pranesh227/LeetCode/tree/master/2722-prime-in-diagonal) |
 | [2737-row-with-maximum-ones](https://github.com/pranesh227/LeetCode/tree/master/2737-row-with-maximum-ones) |
 | [3227-find-missing-and-repeated-values](https://github.com/pranesh227/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Brainteaser
