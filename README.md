@@ -11,6 +11,7 @@
 | [0566-reshape-the-matrix](https://github.com/pranesh227/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/pranesh227/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0692-top-k-frequent-words](https://github.com/pranesh227/LeetCode/tree/master/0692-top-k-frequent-words) |
+| [0941-sort-array-by-parity](https://github.com/pranesh227/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/pranesh227/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
 | [1168-duplicate-zeros](https://github.com/pranesh227/LeetCode/tree/master/1168-duplicate-zeros) |
 | [1241-decompress-run-length-encoded-list](https://github.com/pranesh227/LeetCode/tree/master/1241-decompress-run-length-encoded-list) |
@@ -66,6 +67,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/pranesh227/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pranesh227/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/pranesh227/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0941-sort-array-by-parity](https://github.com/pranesh227/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/pranesh227/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
 | [1168-duplicate-zeros](https://github.com/pranesh227/LeetCode/tree/master/1168-duplicate-zeros) |
 | [1581-the-k-strongest-values-in-an-array](https://github.com/pranesh227/LeetCode/tree/master/1581-the-k-strongest-values-in-an-array) |
@@ -95,6 +97,7 @@
 | [0049-group-anagrams](https://github.com/pranesh227/LeetCode/tree/master/0049-group-anagrams) |
 | [0451-sort-characters-by-frequency](https://github.com/pranesh227/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/pranesh227/LeetCode/tree/master/0692-top-k-frequent-words) |
+| [0941-sort-array-by-parity](https://github.com/pranesh227/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/pranesh227/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
 | [1581-the-k-strongest-values-in-an-array](https://github.com/pranesh227/LeetCode/tree/master/1581-the-k-strongest-values-in-an-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/pranesh227/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
