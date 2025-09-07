@@ -13,6 +13,7 @@
 | [0692-top-k-frequent-words](https://github.com/pranesh227/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0941-sort-array-by-parity](https://github.com/pranesh227/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/pranesh227/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
+| [1031-add-to-array-form-of-integer](https://github.com/pranesh227/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1168-duplicate-zeros](https://github.com/pranesh227/LeetCode/tree/master/1168-duplicate-zeros) |
 | [1241-decompress-run-length-encoded-list](https://github.com/pranesh227/LeetCode/tree/master/1241-decompress-run-length-encoded-list) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/pranesh227/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -115,6 +116,7 @@
 | [0231-power-of-two](https://github.com/pranesh227/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/pranesh227/LeetCode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/pranesh227/LeetCode/tree/master/0263-ugly-number) |
+| [1031-add-to-array-form-of-integer](https://github.com/pranesh227/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/pranesh227/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/pranesh227/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1674-minimum-operations-to-make-array-equal](https://github.com/pranesh227/LeetCode/tree/master/1674-minimum-operations-to-make-array-equal) |
