@@ -69,6 +69,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/pranesh227/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/pranesh227/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pranesh227/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/pranesh227/LeetCode/tree/master/0234-palindrome-linked-list) |
@@ -144,6 +145,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pranesh227/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/pranesh227/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pranesh227/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/pranesh227/LeetCode/tree/master/0049-group-anagrams) |
 | [0409-longest-palindrome](https://github.com/pranesh227/LeetCode/tree/master/0409-longest-palindrome) |
@@ -221,6 +223,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/pranesh227/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [1764-maximum-repeating-substring](https://github.com/pranesh227/LeetCode/tree/master/1764-maximum-repeating-substring) |
 ## Matrix
 |  |
