@@ -1,10 +1,10 @@
-select coalesce (
-(
-SELECT MAX(num)
+SELECT MAX(num) AS num
 FROM MyNumbers
-GROUP BY num
-HAVING COUNT(num) = 1
-order by num desc
-limit 1),null) as num;
+WHERE num NOT IN (
+    SELECT num
+    FROM MyNumbers
+    GROUP BY num
+    HAVING COUNT(num) > 1
+);
 
 
