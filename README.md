@@ -8,6 +8,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/pranesh227/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0049-group-anagrams](https://github.com/pranesh227/LeetCode/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/pranesh227/LeetCode/tree/master/0066-plus-one) |
+| [0500-keyboard-row](https://github.com/pranesh227/LeetCode/tree/master/0500-keyboard-row) |
 | [0566-reshape-the-matrix](https://github.com/pranesh227/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/pranesh227/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0692-top-k-frequent-words](https://github.com/pranesh227/LeetCode/tree/master/0692-top-k-frequent-words) |
@@ -57,6 +58,7 @@
 | [0049-group-anagrams](https://github.com/pranesh227/LeetCode/tree/master/0049-group-anagrams) |
 | [0409-longest-palindrome](https://github.com/pranesh227/LeetCode/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/pranesh227/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0500-keyboard-row](https://github.com/pranesh227/LeetCode/tree/master/0500-keyboard-row) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/pranesh227/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0692-top-k-frequent-words](https://github.com/pranesh227/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/pranesh227/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -155,6 +157,7 @@
 | [0049-group-anagrams](https://github.com/pranesh227/LeetCode/tree/master/0049-group-anagrams) |
 | [0409-longest-palindrome](https://github.com/pranesh227/LeetCode/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/pranesh227/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0500-keyboard-row](https://github.com/pranesh227/LeetCode/tree/master/0500-keyboard-row) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/pranesh227/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0647-palindromic-substrings](https://github.com/pranesh227/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0692-top-k-frequent-words](https://github.com/pranesh227/LeetCode/tree/master/0692-top-k-frequent-words) |
