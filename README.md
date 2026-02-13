@@ -50,6 +50,7 @@
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/pranesh227/LeetCode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3463-alternating-groups-i](https://github.com/pranesh227/LeetCode/tree/master/3463-alternating-groups-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/pranesh227/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3663-find-the-least-frequent-digit](https://github.com/pranesh227/LeetCode/tree/master/3663-find-the-least-frequent-digit) |
 | [3745-maximize-expression-of-three-elements](https://github.com/pranesh227/LeetCode/tree/master/3745-maximize-expression-of-three-elements) |
 | [3790-fruits-into-baskets-ii](https://github.com/pranesh227/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/pranesh227/LeetCode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
@@ -73,6 +74,7 @@
 | [3227-find-missing-and-repeated-values](https://github.com/pranesh227/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/pranesh227/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/pranesh227/LeetCode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
+| [3663-find-the-least-frequent-digit](https://github.com/pranesh227/LeetCode/tree/master/3663-find-the-least-frequent-digit) |
 ## Two Pointers
 |  |
 | ------- |
@@ -147,6 +149,7 @@
 | [3567-convert-date-to-binary](https://github.com/pranesh227/LeetCode/tree/master/3567-convert-date-to-binary) |
 | [3568-find-the-key-of-the-numbers](https://github.com/pranesh227/LeetCode/tree/master/3568-find-the-key-of-the-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/pranesh227/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3663-find-the-least-frequent-digit](https://github.com/pranesh227/LeetCode/tree/master/3663-find-the-least-frequent-digit) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/pranesh227/LeetCode/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/pranesh227/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/pranesh227/LeetCode/tree/master/3783-mirror-distance-of-an-integer) |
@@ -204,6 +207,7 @@
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/pranesh227/LeetCode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/pranesh227/LeetCode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/pranesh227/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3663-find-the-least-frequent-digit](https://github.com/pranesh227/LeetCode/tree/master/3663-find-the-least-frequent-digit) |
 ## String Matching
 |  |
 | ------- |
