@@ -50,6 +50,7 @@
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/pranesh227/LeetCode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3463-alternating-groups-i](https://github.com/pranesh227/LeetCode/tree/master/3463-alternating-groups-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/pranesh227/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3745-maximize-expression-of-three-elements](https://github.com/pranesh227/LeetCode/tree/master/3745-maximize-expression-of-three-elements) |
 | [3790-fruits-into-baskets-ii](https://github.com/pranesh227/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/pranesh227/LeetCode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
@@ -122,6 +123,7 @@
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/pranesh227/LeetCode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/pranesh227/LeetCode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/pranesh227/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [3745-maximize-expression-of-three-elements](https://github.com/pranesh227/LeetCode/tree/master/3745-maximize-expression-of-three-elements) |
 ## Math
 |  |
 | ------- |
@@ -306,6 +308,7 @@
 | [2154-minimum-moves-to-convert-string](https://github.com/pranesh227/LeetCode/tree/master/2154-minimum-moves-to-convert-string) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/pranesh227/LeetCode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/pranesh227/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [3745-maximize-expression-of-three-elements](https://github.com/pranesh227/LeetCode/tree/master/3745-maximize-expression-of-three-elements) |
 ## Segment Tree
 |  |
 | ------- |
@@ -320,6 +323,7 @@
 | [1656-count-good-triplets](https://github.com/pranesh227/LeetCode/tree/master/1656-count-good-triplets) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/pranesh227/LeetCode/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [3221-find-the-peaks](https://github.com/pranesh227/LeetCode/tree/master/3221-find-the-peaks) |
+| [3745-maximize-expression-of-three-elements](https://github.com/pranesh227/LeetCode/tree/master/3745-maximize-expression-of-three-elements) |
 ## Trie
 |  |
 | ------- |
