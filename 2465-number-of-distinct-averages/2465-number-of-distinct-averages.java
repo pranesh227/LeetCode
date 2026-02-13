@@ -4,10 +4,9 @@ class Solution {
         int s=0;
         int e=nums.length-1;
         int w=nums.length/2;
-        TreeSet<Float>set=new TreeSet<>();
-        while(s!=w&&e!=w-1){
-            float f=(nums[s]+nums[e])/2;
-            if((nums[s]+nums[e])%2!=0) f+=0.5;
+        TreeSet<Double>set=new TreeSet<>();
+        while(s<e){
+            double f=(nums[s]+nums[e])/2.0;
             set.add(f);
             s++;
             e--;
