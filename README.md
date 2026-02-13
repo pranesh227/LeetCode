@@ -18,6 +18,7 @@
 | [1031-add-to-array-form-of-integer](https://github.com/pranesh227/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1168-duplicate-zeros](https://github.com/pranesh227/LeetCode/tree/master/1168-duplicate-zeros) |
 | [1241-decompress-run-length-encoded-list](https://github.com/pranesh227/LeetCode/tree/master/1241-decompress-run-length-encoded-list) |
+| [1331-rank-transform-of-an-array](https://github.com/pranesh227/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/pranesh227/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/pranesh227/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1505-create-target-array-in-the-given-order](https://github.com/pranesh227/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
@@ -65,6 +66,7 @@
 | [0500-keyboard-row](https://github.com/pranesh227/LeetCode/tree/master/0500-keyboard-row) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/pranesh227/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0692-top-k-frequent-words](https://github.com/pranesh227/LeetCode/tree/master/0692-top-k-frequent-words) |
+| [1331-rank-transform-of-an-array](https://github.com/pranesh227/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/pranesh227/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/pranesh227/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/pranesh227/LeetCode/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
@@ -119,6 +121,7 @@
 | [0941-sort-array-by-parity](https://github.com/pranesh227/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/pranesh227/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/pranesh227/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1331-rank-transform-of-an-array](https://github.com/pranesh227/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1581-the-k-strongest-values-in-an-array](https://github.com/pranesh227/LeetCode/tree/master/1581-the-k-strongest-values-in-an-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/pranesh227/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/pranesh227/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
