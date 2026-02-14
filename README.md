@@ -78,6 +78,7 @@
 | [2465-number-of-distinct-averages](https://github.com/pranesh227/LeetCode/tree/master/2465-number-of-distinct-averages) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/pranesh227/LeetCode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/pranesh227/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2947-count-beautiful-substrings-i](https://github.com/pranesh227/LeetCode/tree/master/2947-count-beautiful-substrings-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/pranesh227/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/pranesh227/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/pranesh227/LeetCode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
@@ -157,6 +158,7 @@
 | [2630-alternating-digit-sum](https://github.com/pranesh227/LeetCode/tree/master/2630-alternating-digit-sum) |
 | [2722-prime-in-diagonal](https://github.com/pranesh227/LeetCode/tree/master/2722-prime-in-diagonal) |
 | [2812-find-the-maximum-achievable-number](https://github.com/pranesh227/LeetCode/tree/master/2812-find-the-maximum-achievable-number) |
+| [2947-count-beautiful-substrings-i](https://github.com/pranesh227/LeetCode/tree/master/2947-count-beautiful-substrings-i) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/pranesh227/LeetCode/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3227-find-missing-and-repeated-values](https://github.com/pranesh227/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/pranesh227/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -175,6 +177,7 @@
 | ------- |
 | [0258-add-digits](https://github.com/pranesh227/LeetCode/tree/master/0258-add-digits) |
 | [2722-prime-in-diagonal](https://github.com/pranesh227/LeetCode/tree/master/2722-prime-in-diagonal) |
+| [2947-count-beautiful-substrings-i](https://github.com/pranesh227/LeetCode/tree/master/2947-count-beautiful-substrings-i) |
 ## String
 |  |
 | ------- |
@@ -205,6 +208,7 @@
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/pranesh227/LeetCode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/pranesh227/LeetCode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2886-faulty-keyboard](https://github.com/pranesh227/LeetCode/tree/master/2886-faulty-keyboard) |
+| [2947-count-beautiful-substrings-i](https://github.com/pranesh227/LeetCode/tree/master/2947-count-beautiful-substrings-i) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/pranesh227/LeetCode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3567-convert-date-to-binary](https://github.com/pranesh227/LeetCode/tree/master/3567-convert-date-to-binary) |
 ## Sliding Window
@@ -233,6 +237,7 @@
 | ------- |
 | [1833-find-the-highest-altitude](https://github.com/pranesh227/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [2102-find-the-middle-index-in-array](https://github.com/pranesh227/LeetCode/tree/master/2102-find-the-middle-index-in-array) |
+| [2947-count-beautiful-substrings-i](https://github.com/pranesh227/LeetCode/tree/master/2947-count-beautiful-substrings-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -342,6 +347,7 @@
 | ------- |
 | [1656-count-good-triplets](https://github.com/pranesh227/LeetCode/tree/master/1656-count-good-triplets) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/pranesh227/LeetCode/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
+| [2947-count-beautiful-substrings-i](https://github.com/pranesh227/LeetCode/tree/master/2947-count-beautiful-substrings-i) |
 | [3221-find-the-peaks](https://github.com/pranesh227/LeetCode/tree/master/3221-find-the-peaks) |
 | [3745-maximize-expression-of-three-elements](https://github.com/pranesh227/LeetCode/tree/master/3745-maximize-expression-of-three-elements) |
 ## Trie
