@@ -47,6 +47,7 @@
 | [2737-row-with-maximum-ones](https://github.com/pranesh227/LeetCode/tree/master/2737-row-with-maximum-ones) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/pranesh227/LeetCode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/pranesh227/LeetCode/tree/master/3079-find-the-sum-of-encrypted-integers) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/pranesh227/LeetCode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3221-find-the-peaks](https://github.com/pranesh227/LeetCode/tree/master/3221-find-the-peaks) |
 | [3227-find-missing-and-repeated-values](https://github.com/pranesh227/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/pranesh227/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -101,6 +102,7 @@
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/pranesh227/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2465-number-of-distinct-averages](https://github.com/pranesh227/LeetCode/tree/master/2465-number-of-distinct-averages) |
 | [2481-strictly-palindromic-number](https://github.com/pranesh227/LeetCode/tree/master/2481-strictly-palindromic-number) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/pranesh227/LeetCode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## Simulation
 |  |
 | ------- |
@@ -135,6 +137,7 @@
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/pranesh227/LeetCode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2465-number-of-distinct-averages](https://github.com/pranesh227/LeetCode/tree/master/2465-number-of-distinct-averages) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/pranesh227/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/pranesh227/LeetCode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3745-maximize-expression-of-three-elements](https://github.com/pranesh227/LeetCode/tree/master/3745-maximize-expression-of-three-elements) |
 ## Math
 |  |
