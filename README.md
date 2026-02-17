@@ -25,6 +25,7 @@
 | [1505-create-target-array-in-the-given-order](https://github.com/pranesh227/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1528-shuffle-string](https://github.com/pranesh227/LeetCode/tree/master/1528-shuffle-string) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/pranesh227/LeetCode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
+| [1572-matrix-diagonal-sum](https://github.com/pranesh227/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 | [1581-the-k-strongest-values-in-an-array](https://github.com/pranesh227/LeetCode/tree/master/1581-the-k-strongest-values-in-an-array) |
 | [1656-count-good-triplets](https://github.com/pranesh227/LeetCode/tree/master/1656-count-good-triplets) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/pranesh227/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -280,6 +281,7 @@
 |  |
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/pranesh227/LeetCode/tree/master/0566-reshape-the-matrix) |
+| [1572-matrix-diagonal-sum](https://github.com/pranesh227/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 | [2722-prime-in-diagonal](https://github.com/pranesh227/LeetCode/tree/master/2722-prime-in-diagonal) |
 | [2737-row-with-maximum-ones](https://github.com/pranesh227/LeetCode/tree/master/2737-row-with-maximum-ones) |
 | [3227-find-missing-and-repeated-values](https://github.com/pranesh227/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
