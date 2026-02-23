@@ -76,6 +76,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/pranesh227/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/pranesh227/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/pranesh227/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1796-second-largest-digit-in-a-string](https://github.com/pranesh227/LeetCode/tree/master/1796-second-largest-digit-in-a-string) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/pranesh227/LeetCode/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/pranesh227/LeetCode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2465-number-of-distinct-averages](https://github.com/pranesh227/LeetCode/tree/master/2465-number-of-distinct-averages) |
@@ -202,6 +203,7 @@
 | [1417-reformat-the-string](https://github.com/pranesh227/LeetCode/tree/master/1417-reformat-the-string) |
 | [1528-shuffle-string](https://github.com/pranesh227/LeetCode/tree/master/1528-shuffle-string) |
 | [1764-maximum-repeating-substring](https://github.com/pranesh227/LeetCode/tree/master/1764-maximum-repeating-substring) |
+| [1796-second-largest-digit-in-a-string](https://github.com/pranesh227/LeetCode/tree/master/1796-second-largest-digit-in-a-string) |
 | [1797-goal-parser-interpretation](https://github.com/pranesh227/LeetCode/tree/master/1797-goal-parser-interpretation) |
 | [1899-count-items-matching-a-rule](https://github.com/pranesh227/LeetCode/tree/master/1899-count-items-matching-a-rule) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/pranesh227/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
