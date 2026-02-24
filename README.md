@@ -59,6 +59,7 @@
 | [3618-split-array-by-prime-indices](https://github.com/pranesh227/LeetCode/tree/master/3618-split-array-by-prime-indices) |
 | [3663-find-the-least-frequent-digit](https://github.com/pranesh227/LeetCode/tree/master/3663-find-the-least-frequent-digit) |
 | [3745-maximize-expression-of-three-elements](https://github.com/pranesh227/LeetCode/tree/master/3745-maximize-expression-of-three-elements) |
+| [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/pranesh227/LeetCode/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3790-fruits-into-baskets-ii](https://github.com/pranesh227/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/pranesh227/LeetCode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
@@ -145,6 +146,7 @@
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/pranesh227/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/pranesh227/LeetCode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3745-maximize-expression-of-three-elements](https://github.com/pranesh227/LeetCode/tree/master/3745-maximize-expression-of-three-elements) |
+| [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/pranesh227/LeetCode/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 ## Math
 |  |
 | ------- |
