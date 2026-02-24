@@ -58,6 +58,7 @@
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/pranesh227/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3618-split-array-by-prime-indices](https://github.com/pranesh227/LeetCode/tree/master/3618-split-array-by-prime-indices) |
 | [3663-find-the-least-frequent-digit](https://github.com/pranesh227/LeetCode/tree/master/3663-find-the-least-frequent-digit) |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/pranesh227/LeetCode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3745-maximize-expression-of-three-elements](https://github.com/pranesh227/LeetCode/tree/master/3745-maximize-expression-of-three-elements) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/pranesh227/LeetCode/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3790-fruits-into-baskets-ii](https://github.com/pranesh227/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
@@ -88,6 +89,7 @@
 | [3242-count-elements-with-maximum-frequency](https://github.com/pranesh227/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/pranesh227/LeetCode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3663-find-the-least-frequent-digit](https://github.com/pranesh227/LeetCode/tree/master/3663-find-the-least-frequent-digit) |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/pranesh227/LeetCode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -145,6 +147,7 @@
 | [2465-number-of-distinct-averages](https://github.com/pranesh227/LeetCode/tree/master/2465-number-of-distinct-averages) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/pranesh227/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/pranesh227/LeetCode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/pranesh227/LeetCode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3745-maximize-expression-of-three-elements](https://github.com/pranesh227/LeetCode/tree/master/3745-maximize-expression-of-three-elements) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/pranesh227/LeetCode/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 ## Math
@@ -348,6 +351,7 @@
 | [2154-minimum-moves-to-convert-string](https://github.com/pranesh227/LeetCode/tree/master/2154-minimum-moves-to-convert-string) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/pranesh227/LeetCode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/pranesh227/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/pranesh227/LeetCode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3745-maximize-expression-of-three-elements](https://github.com/pranesh227/LeetCode/tree/master/3745-maximize-expression-of-three-elements) |
 ## Segment Tree
 |  |
