@@ -178,6 +178,7 @@
 | [3568-find-the-key-of-the-numbers](https://github.com/pranesh227/LeetCode/tree/master/3568-find-the-key-of-the-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/pranesh227/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3618-split-array-by-prime-indices](https://github.com/pranesh227/LeetCode/tree/master/3618-split-array-by-prime-indices) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/pranesh227/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3663-find-the-least-frequent-digit](https://github.com/pranesh227/LeetCode/tree/master/3663-find-the-least-frequent-digit) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/pranesh227/LeetCode/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/pranesh227/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -192,6 +193,7 @@
 | [2722-prime-in-diagonal](https://github.com/pranesh227/LeetCode/tree/master/2722-prime-in-diagonal) |
 | [2947-count-beautiful-substrings-i](https://github.com/pranesh227/LeetCode/tree/master/2947-count-beautiful-substrings-i) |
 | [3618-split-array-by-prime-indices](https://github.com/pranesh227/LeetCode/tree/master/3618-split-array-by-prime-indices) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/pranesh227/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## String
 |  |
 | ------- |
