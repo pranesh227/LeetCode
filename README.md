@@ -119,6 +119,7 @@
 | [2271-rearrange-array-elements-by-sign](https://github.com/pranesh227/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2288-count-operations-to-obtain-zero](https://github.com/pranesh227/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2886-faulty-keyboard](https://github.com/pranesh227/LeetCode/tree/master/2886-faulty-keyboard) |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/pranesh227/LeetCode/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/pranesh227/LeetCode/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/pranesh227/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/pranesh227/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -165,6 +166,7 @@
 | [2812-find-the-maximum-achievable-number](https://github.com/pranesh227/LeetCode/tree/master/2812-find-the-maximum-achievable-number) |
 | [2947-count-beautiful-substrings-i](https://github.com/pranesh227/LeetCode/tree/master/2947-count-beautiful-substrings-i) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/pranesh227/LeetCode/tree/master/3079-find-the-sum-of-encrypted-integers) |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/pranesh227/LeetCode/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3227-find-missing-and-repeated-values](https://github.com/pranesh227/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/pranesh227/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3567-convert-date-to-binary](https://github.com/pranesh227/LeetCode/tree/master/3567-convert-date-to-binary) |
@@ -366,4 +368,8 @@
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/pranesh227/LeetCode/tree/master/0692-top-k-frequent-words) |
+## Game Theory
+|  |
+| ------- |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/pranesh227/LeetCode/tree/master/3222-find-the-winning-player-in-coin-game) |
 <!---LeetCode Topics End-->
