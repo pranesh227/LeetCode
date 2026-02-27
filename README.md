@@ -111,6 +111,7 @@
 | [2465-number-of-distinct-averages](https://github.com/pranesh227/LeetCode/tree/master/2465-number-of-distinct-averages) |
 | [2481-strictly-palindromic-number](https://github.com/pranesh227/LeetCode/tree/master/2481-strictly-palindromic-number) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/pranesh227/LeetCode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+| [3775-reverse-words-with-same-vowel-count](https://github.com/pranesh227/LeetCode/tree/master/3775-reverse-words-with-same-vowel-count) |
 ## Simulation
 |  |
 | ------- |
@@ -127,6 +128,7 @@
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/pranesh227/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/pranesh227/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/pranesh227/LeetCode/tree/master/3726-remove-zeros-in-decimal-representation) |
+| [3775-reverse-words-with-same-vowel-count](https://github.com/pranesh227/LeetCode/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3790-fruits-into-baskets-ii](https://github.com/pranesh227/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Sorting
 |  |
@@ -229,6 +231,7 @@
 | [2947-count-beautiful-substrings-i](https://github.com/pranesh227/LeetCode/tree/master/2947-count-beautiful-substrings-i) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/pranesh227/LeetCode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3567-convert-date-to-binary](https://github.com/pranesh227/LeetCode/tree/master/3567-convert-date-to-binary) |
+| [3775-reverse-words-with-same-vowel-count](https://github.com/pranesh227/LeetCode/tree/master/3775-reverse-words-with-same-vowel-count) |
 ## Sliding Window
 |  |
 | ------- |
