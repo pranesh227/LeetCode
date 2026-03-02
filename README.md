@@ -62,6 +62,7 @@
 | [3745-maximize-expression-of-three-elements](https://github.com/pranesh227/LeetCode/tree/master/3745-maximize-expression-of-three-elements) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/pranesh227/LeetCode/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3790-fruits-into-baskets-ii](https://github.com/pranesh227/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
+| [3842-toggle-light-bulbs](https://github.com/pranesh227/LeetCode/tree/master/3842-toggle-light-bulbs) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/pranesh227/LeetCode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
 |  |
@@ -90,6 +91,7 @@
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/pranesh227/LeetCode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3663-find-the-least-frequent-digit](https://github.com/pranesh227/LeetCode/tree/master/3663-find-the-least-frequent-digit) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/pranesh227/LeetCode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
+| [3842-toggle-light-bulbs](https://github.com/pranesh227/LeetCode/tree/master/3842-toggle-light-bulbs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -130,6 +132,7 @@
 | [3726-remove-zeros-in-decimal-representation](https://github.com/pranesh227/LeetCode/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/pranesh227/LeetCode/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3790-fruits-into-baskets-ii](https://github.com/pranesh227/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
+| [3842-toggle-light-bulbs](https://github.com/pranesh227/LeetCode/tree/master/3842-toggle-light-bulbs) |
 ## Sorting
 |  |
 | ------- |
@@ -152,6 +155,7 @@
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/pranesh227/LeetCode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3745-maximize-expression-of-three-elements](https://github.com/pranesh227/LeetCode/tree/master/3745-maximize-expression-of-three-elements) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/pranesh227/LeetCode/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
+| [3842-toggle-light-bulbs](https://github.com/pranesh227/LeetCode/tree/master/3842-toggle-light-bulbs) |
 ## Math
 |  |
 | ------- |
